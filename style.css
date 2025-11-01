@@ -1,0 +1,46 @@
+/* General Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    h1{
+        color: black;
+    }
+    p{
+        color: chocolate;
+    
+    }
+}
+
+/* Sections */
+section {
+    padding: 35px;
+    margin: 25px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+/* Section Titles */
+section h2 {
+    color: #0077b6;
+}
+
+/* Projects List */
+ul {
+    list-style-type: symbols(*);
+}
+
+ul li {
+    margin: 10px 0;
+}
